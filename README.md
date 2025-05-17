@@ -1,6 +1,6 @@
 # 🚀 Nebula Finance Lab
 
-**Nebula Finance Lab** is a multi-themed, interactive financial machine learning application built using [Streamlit](https://streamlit.io/). Developed for the **AF3005 Group Project (BSFT Batch 22, Sections A, B, C)** at _[Your University Name]_, this app allows users to fetch real-time stock market data, upload financial datasets, and apply machine learning models with visually engaging themes—each designed by a team member.
+**Nebula Finance Lab** is a multi-themed, interactive financial machine learning application built using [Streamlit](https://streamlit.io/). Developed for the **AF3005 Group Project (BSFT Batch 22)** at _[FAST NUCES Islamabad]_, this app allows users to fetch real-time stock market data, upload financial datasets, and apply machine learning models with visually engaging themes—each designed by a team member.
 
 ---
 
